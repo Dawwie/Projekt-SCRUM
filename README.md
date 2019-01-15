@@ -1,9 +1,9 @@
 # Projekt-SCRUM
 
-CZŁONKOWIE PROJEKTU
+## CZŁONKOWIE PROJEKTU
 
-Dawid Wietrzych       - Development Team member
-Jacek Krakowski       - Development Team member
-Michał Zaręba         - Development Team member
-Agnieszka Reguła      - Scrum Master
-Paweł Rozpłochowski   - Product Owner
+1. Dawid Wietrzych       - **Development Team member**
+2. Jacek Krakowski       - **Development Team member**
+3. Michał Zaręba         - **Development Team member**
+4. Agnieszka Reguła      - **Scrum Master**
+5. Paweł Rozpłochowski   - **Product Owner**
