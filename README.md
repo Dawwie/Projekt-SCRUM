@@ -8,5 +8,5 @@
 4. Agnieszka Reguła      - **Scrum Master**
 5. Paweł Rozpłochowski   - **Product Owner**
 
-## [SLACK PROJEKTU] (https://projektscrum.slack.com/messages/CFC8KQCF4/)
+## [SLACK PROJEKTU](https://projektscrum.slack.com/messages/CFC8KQCF4/)
 
