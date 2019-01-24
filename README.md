@@ -8,5 +8,6 @@
 4. Agnieszka Reguła      - **Scrum Master**
 5. Paweł Rozpłochowski   - **Product Owner**
 
-## [SLACK PROJEKTU](https://poczekajcie.github.io/)
+## [Aplikacja](https://poczekajcie.github.io/)
+## [SLACK PROJEKTU](https://projektscrum.slack.com/messages/CFC8KQCF4/)
 
