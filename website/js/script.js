@@ -1,20 +1,24 @@
 document.addEventListener("keydown", function(event) {
   console.log(event);
         if(event.which == 37) { //left randomowy
-            var min=1; 
-            var max=3;  
-            var random =Math.floor(Math.random() * (+max - +min)) + +min; 
+            var min=1;
+            var max=3;
+            var random =Math.floor(Math.random() * (+max - +min)) + +min;
             document.getElementById("loading-wrapper").style.display = "none";
             switch(random) {
               case 1: //randomowo nie ma kota
                 document.getElementById("result-wrapper").style.display = "block";
                 document.getElementById("result-nope").style.display = "block";
                 document.getElementById("result-text-nope").style.display = "block";
+                var audio = new Audio('Sounds/Nie_ma.mp3');
+                audio.play();
                 break;
               case 2: //randomowo jest kot
                 document.getElementById("result-wrapper").style.display = "block";
                 document.getElementById("result-yup").style.display = "block";
                 document.getElementById("result-text-yup").style.display = "block";
+                var audio = new Audio('Sounds/Jest.mp3');
+                audio.play();
                 break;
             }
         }
@@ -23,13 +27,16 @@ document.addEventListener("keydown", function(event) {
             document.getElementById("result-wrapper").style.display = "block";
             document.getElementById("result-nope").style.display = "block";
             document.getElementById("result-text-nope").style.display = "block";
-
+            var audio = new Audio('Sounds/Nie_ma.mp3');
+            audio.play();
         }
         if(event.which == 39) { //right jest kot
             document.getElementById("loading-wrapper").style.display = "none";
             document.getElementById("result-wrapper").style.display = "block";
             document.getElementById("result-yup").style.display = "block";
             document.getElementById("result-text-yup").style.display = "block";
+            var audio = new Audio('Sounds/Jest.mp3');
+            audio.play();
         }
         if(event.which == 40) { //down od nowa
             document.getElementById("loading-wrapper").style.display = "block";
