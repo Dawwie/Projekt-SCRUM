@@ -1,5 +1,5 @@
 body {
-  background-color: #222;
+  background-color: #ff9f95;
 }
 
 
@@ -16,7 +16,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  color: #999;
+  color: #221d1d;
   width: 200px;
   height: 130px;
   margin: -17px 0 0 -95px;
@@ -152,25 +152,4 @@ body {
   margin: 0 auto;
   text-align: center;
   background-color: #888;
-}
-
-@media (max-width: 600px) and (orientation: portrait) {
-
-  #loading-content,  {
-    width: 340px;
-    height: 340px;
-    margin: -170px 0 0 -170px;
-  }
-
-  #result-yup, #result-nope {
-    width: 250px;
-    height: 250px;
-    margin: -125px 0 0 -125px;
-  }
-
-  #result-text-yup, #result-text-nope {
-    margin: 200px 0 0 -150px;
-    font-size: 30px;
-    width: 300px;
-  }
 }
