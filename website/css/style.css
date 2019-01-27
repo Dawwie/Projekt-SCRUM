@@ -1,5 +1,5 @@
 body {
-  background-color: #ff9f95;
+  background-color: #ffabc4;
 }
 
 
@@ -16,7 +16,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  color: #221d1d;
+  color: #ffffff;
   width: 200px;
   height: 130px;
   margin: -17px 0 0 -95px;
@@ -70,8 +70,8 @@ body {
 
 #loading-content {
   border: 3px solid transparent;
-  border-top-color: #4D658D;
-  border-bottom-color: #4D658D;
+  border-top-color: #e59572;
+  border-bottom-color: #e59572;
   border-radius: 50%;
   -webkit-animation: loader 2s linear infinite;
   -moz-animation: loader 2s linear infinite;
@@ -81,8 +81,8 @@ body {
 
 #loading-content:before {
   border: 3px solid transparent;
-  border-top-color: #D4CC6A;
-  border-bottom-color: #D4CC6A;
+  border-top-color: #2694ab;
+  border-bottom-color: #2694ab;
   border-radius: 50%;
   -webkit-animation: loader 3s linear infinite;
     -moz-animation: loader 2s linear infinite;
@@ -92,8 +92,8 @@ body {
 
 #loading-content:after {
   border: 3px solid transparent;
-  border-top-color: #84417C;
-  border-bottom-color: #84417C;
+  border-top-color: #4dbedf;
+  border-bottom-color: #4dbedf;
   border-radius: 50%;
   -webkit-animation: loader 1.5s linear infinite;
   animation: loader 1.5s linear infinite;
