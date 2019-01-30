@@ -12,7 +12,7 @@
 ## [SLACK PROJEKTU](https://projektscrum.slack.com/messages/CFC8KQCF4/)
 # Instrukcja obsługi do aplikacji ”Znajdź kota!”
 ## Uruchomienie aplikacji: 
-Aby uruchomić grę, należy otworzyć folder zawierający aplikację. Dwukrotnie wciskamy `lewym przyciskiem myszy` na folder *website*. Następnie otwieramy stronę, klikając dwukrotnie `lewym przyciskiem myszy` w plik [index.html](website). Po wykonaniu owych czynności otworzy się przeglądarka. Jeśli aplikacja załadowała się prawidłowo, zauważymy różowe tło, z animacją na środku ekranu **„Rozwiązywanie konfliktu”**.
+Aby uruchomić grę wchodzimy na [stronę]{https://poczekajcie.github.io) lub należy otworzyć (pobrany wcześniej) folder zawierający aplikację. Dwukrotnie wciskamy `lewym przyciskiem myszy` na folder *website*. Następnie otwieramy stronę, klikając dwukrotnie `lewym przyciskiem myszy` w plik [index.html](website). Po wykonaniu owych czynności otworzy się przeglądarka. Jeśli aplikacja załadowała się prawidłowo, zauważymy różowe tło, z animacją na środku ekranu **„Rozwiązywanie konfliktu”**.
 
 **UWAGA!** Jeśli użytkownik nie wybrał domyślnej przeglądarki systemu, po wykonaniu podanych czynności, należy wybrać przeglądarkę z której chcemy skorzystać z okienka, które wyświetla się na ekranie. 
  
